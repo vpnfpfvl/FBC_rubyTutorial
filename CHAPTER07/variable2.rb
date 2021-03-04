@@ -4,3 +4,4 @@ def hello
 end
 
 hello
+p text
